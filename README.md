@@ -3,7 +3,7 @@
 It's a simple script which is capable of solving different sudokus usig CSP.
 
 **Requirments:**
- - Python
+ - Python3
  - tkinter
 
 ![python csp sudoku solver](https://github.com/ravexina/csp-sudoku-solver/blob/master/screenshots/1.png)

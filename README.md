@@ -19,7 +19,7 @@ Then you can click on `start searching`, it tries to find a solution and complet
 
 ![python csp sudoku solver - complete](https://github.com/ravexina/csp-sudoku-solver/blob/master/screenshots/3.png?raw=true)
 
-You can also use `Next live` to find the solution step by step (it will includes backtracking process too), or after using finding the complete solution using `Start searching` you can click on `File -> Clear`, then you can use `Next` to see the workaround (whitout backtracking).
+You can also use `Next live` to find the solution step by step (it will includes backtracking process too), or after finding the complete solution using `Start searching` you can click on `File -> Clear`, then use `Next` to see the workaround step by step (whitout backtracking).
 
 1th and 2th way are different heuristics. 
 
